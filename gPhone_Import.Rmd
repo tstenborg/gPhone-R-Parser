@@ -2,7 +2,7 @@
 ```{r gPhone_Encode, echo=FALSE, include=FALSE}
 
 # Prepare time series data for import into a data frame.
-# It's assumed the data will be in ".tsf" format (Strater Template Files).
+# It's assumed the data will be in ".tsf" format.
 
 library(dplyr)   # For manipulating tibbles.
 library(readr)   # For reading files and manipulating encodings.
