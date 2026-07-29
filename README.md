@@ -104,7 +104,7 @@ Please ensure their dependencies are also installed.
 
 ## Quality Assurance
 
-The data parser was tested in the following environment.
+The data parser has been tested in the following environment.
 
 <details>
 <summary>Windows Test Environment</summary>
