@@ -2,7 +2,7 @@
 
 [![super-linter](../../actions/workflows/super-linter.yml/badge.svg)](../../actions/workflows/super-linter.yml) ![human-only code](https://img.shields.io/badge/human--only-code-white)
 
-This repository holds digital assets associated with the article "An R data
+This repository holds digital resources associated with the article "An R data
 parser for the gPhone gravity meter" [[1](#references)]. That article describes
 R Markdown designed to parse and import gPhone 74 gravity meter data into
 RStudio. Users may then inspect and analyse the data further using RStudio's
